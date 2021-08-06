@@ -48,7 +48,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = jordi@ywarp.com
+	email = jordi@benetalk.com
 	name = Jordi Fernandez
 [filter "lfs"]
 	clean = git-lfs clean %f
