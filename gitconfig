@@ -48,7 +48,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = jordi@respira.io
+	email = jordi@benetalk.com
 	name = Jordi Fernandez
 [filter "lfs"]
 	clean = git-lfs clean %f
