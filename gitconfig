@@ -48,7 +48,7 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = jordi@benetalk.com
+	email = [A
 	name = Jordi Fernandez
 [filter "lfs"]
 	clean = git-lfs clean %f
